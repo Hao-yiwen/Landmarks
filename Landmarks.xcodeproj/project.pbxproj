@@ -38,6 +38,7 @@
 /* Begin PBXFileReference section */
 		39E2B4832ACE67F1006F6D16 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 		39E2B4852ACE7506006F6D16 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
+		39E2B4882ACE7B5E006F6D16 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		39E87F322ACDB7DB00E2A648 /* Landmarks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Landmarks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		39E87F352ACDB7DB00E2A648 /* LandmarksApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarksApp.swift; sourceTree = "<group>"; };
 		39E87F372ACDB7DB00E2A648 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -78,6 +79,7 @@
 		39E87F292ACDB7DB00E2A648 = {
 			isa = PBXGroup;
 			children = (
+				39E2B4882ACE7B5E006F6D16 /* README.md */,
 				39E87F342ACDB7DB00E2A648 /* Landmarks */,
 				39E87F452ACDB7DD00E2A648 /* LandmarksTests */,
 				39E87F4F2ACDB7DD00E2A648 /* LandmarksUITests */,
